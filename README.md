@@ -1,1 +1,1 @@
-# Sruktur-data
+# Struktur-data
